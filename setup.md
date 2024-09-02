@@ -7,7 +7,7 @@
 
 ## Allgemein
 
-Um mit der App loszulegen muss zuerst ein Tarif gebucht werden. Starte mit dem Starter plan. In diesem Plan ist die Nutzung der App für die ersten 30 Retouren kostenlos.
+Um mit der App loszulegen, wähle den Starter-Plan. In diesem Plan ist die Nutzung der App für die ersten 30 Retouren kostenlos. Weitere Infos zum den Tarifen findest du [hier im Shopify App-Listing](https://apps.shopify.com/easyreturns-1?locale=de).
 
 Es ist kein gesonderter Setup erforderlich. Das Retourenportal ist nach auswahl des Tarifs unter deiner Shop-Domain mit der URI **/apps/returns** (www.deine-domain.de/apps/returns) verfügbar.
 
