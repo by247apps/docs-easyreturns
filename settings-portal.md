@@ -1,112 +1,52 @@
-# Allgemein
+# Portal
 
--   [Bestellungen auf dem Dashboard](#dashboard)
-    -   [Anzahl Bestellungen](#count)
-    -   [Typ Bestellungen](#type)
-    -   [Sortierung](#sort)
-    -   [Bestellungen ausschließen](#exclude)
-    -   [Bestellinfos](#infos)
-    -   [Zusätzliche Optionen für die Bulk-Erstellung](#bulk-options)
--   [Einstellung Bulk-Verarbeitung](#settings-bulk)
-    -   [Anzahl Artikel als Bulk-Grenze](#items-count)
-    -   [Sortierung als Bulk-Versandlabels](#sort-bulk)
-    -   [Bulk-Ergebnis per E-Mail versenden](#email-bulk)
-    -   [Staffelung der Stapelverarbeitung](#chunk-bulk)
--   [Dokumente sortiert zusammenführen](#merge)
--   [Weitere Options](#more-options)
+-   [Portalseite](#portal-url)
 -   [FAQ](#faq)
 
-<a name="dashboard"></a>
+<a name="portal-url"></a>
 
-## Bestellungen auf dem Dashboard
+## Portalseite
 
-Konfiguriere, wie Bestellungen auf dem Dashboard dargestellt werden sollen. <a class="video">https://youtu.be/zUGuI1ka880</a>
+Über diese URL ist dein Retourenportal erreichbar. Verlinke die Seite an entsprechender Stelle. Du kannst die Seite offline schalten. Die URL kann nicht angepasst werden. <a class="video">https://youtu.be/WboL4DNX510</a>
 
-<a name="count"></a>
+> [!NOTE]
+> Kontaktiere uns, wenn du ein sogenanntes Headless Template verwendest. Wir hinterlegen dann - ganz unkompliziert - entsprechende Einstellungen damit das Portal erreichbar ist.
 
-### Anzahl Bestellungen
+<a name="portal-policies"></a>
 
-Lege fest, wieviele Bestellungen maximal im Dashboard angezeigt werden sollen.
+## Rechtliches
 
-<a name="type"></a>
+Hinterlege hier die URL zu deinem Impressum und der Datenschutzerklärung deines Shops. <a class="video">https://youtu.be/WboL4DNX510?si=-yAE0Pyw-ThBPq0m&t=50</a>
 
-### Typ Bestellungen
+<a name="portal-languages"></a>
 
-Wähle, ob alle offenen oder nur bezahlte Bestellungen geladen werden sollen.
+## Sprachen
 
-<a name="sort"></a>
+Das Retourenportal kann in Deutsch und Englisch betrieben werden. Die Unterszung weiterer Sprachen ist derzeit nicht geplant.
 
-### Sortierung
+<a name="portal-reasons"></a>
 
-Wähle, ob Bestellungen nach Datum auf- oder absteigend sortiert angezeigt werden sollen.
+## Rücksendegrüde
 
-<a name="exclude"></a>
+Es ist möglich eigene Rücksendegründe festzulegen oder bestehende zu bearbeiten. Rücksendegründe können innerhalb der Rückgabe-Regeln verwendet werden, so dass z.B. bei 'Gefällt mir nicht' eine Rücksendegebühr erhoben wird. <a class="video">https://youtu.be/WboL4DNX510?si=1r9WfqGUNzYMut7W&t=92</a>
 
-### Bestellungen ausschließen
+<a name="portal-comment"></a>
 
-Trage einen oder mehrere Tags ein, anhand derer Bestellungen aus dem Dashboard ausgeschlossen werden sollen.
+## Kommentar vom Kunden & Datei-Upload
 
-<a name="infos"></a>
+Wenn mindestens ein Eingabefeld aktiviert ist, wird die Eingabe über einen extra Zwischenschritt im Retourenportal ermöglicht. Beides kann Pflichteingabe-Felder deklariert werden, so dass der Kunde nur dann zum nächsten Schritt gelangt, wenn die Felder entsprechende befüllt sind. <a class="video">https://youtu.be/WboL4DNX510?si=b4XOSeB-mj17_Y5W&t=188</a>
 
-### Bestellinfos
+<a name="portal-infotexte"></a>
 
-Wähle, welche Informationen zu den Bestellungen im Dashboard angezeigt werden sollen.
+## Kundeninformationen
 
-<a name="bulk-options"></a>
+Über die Freitext-Eingabe können nützliche Informationen, die Ihre Kunden bei der Rücksendung beachten sollen, im Retourenportal kommuniziert werden. Diese werden farblich in einem Info-Banner hervorgehoben. <a class="video">https://youtu.be/WboL4DNX510?si=b4XOSeB-mj17_Y5W&t=386</a>
 
-### Zusätzliche Optionen für die Bulk-Erstellung
+<a name="portal-design"></a>
 
-#### Wunschdatum
+## Layout, Shop-Logo, Hintergrund und Farben
 
-Blende das Eingabefeld für die Wunschzustellung im Dashboard ein.
-
-#### Blätterfunktion
-
-Aktiviere die Blätterfunktion im Dashboard.
-
-<a name="settings-bulk"></a>
-
-## Einstellung Bulk-Verarbeitung
-
-Konfiguriere, wie die Bulk-Verarbeitung durchgeführt werden soll. <a class="video">https://youtu.be/2DhmAx5W5hQ</a>
-
-<a name="items-count"></a>
-
-### Anzahl Artikel als Bulk-Grenze
-
-Lege fest, ob ab einer gewissen Artikelanzahl die Erstellung eines Labels über die Bulkverarbeitung verhindert wird. Dies insbesondere nützlich, wenn bei vielen Artikeln innerhalb einer Bestellung mehrere Labels erstellt werden sollen.
-
-<a name="sort-bulk"></a>
-
-### Sortierung als Bulk-Versandlabels
-
-Stelle ein, wie Versandlabels bei der Bulk-Ausführung sortiert werden sollen. Mit Standard wird die Selektion aus dem Dashboard übernommen. Sortierung nach SKU und Artikel/SKU erfolgt anhand des ersten Artikels in der Bestellung.
-
-<a name="email-bulk"></a>
-
-### Bulk-Ergebnis per E-Mail versenden
-
-Wenn Du hier eine E-Mail-Adresse hinterlegst, wird der Link zum Ergebnis (Downloadseite) anschließend an diese E-Mail-Adresse gesendet.
-
-<a name="chunk-bulk"></a>
-
-### Staffelung der Stapelverarbeitung
-
-Wir empfehlen hier nicht mehr als 250 auszuwählen. Als Bespiel: Ist hier 50 eingestellt, werden bei einer Auswahl von 80 Bestellungen für die Stapelverarbeitung, diese in zwei Ergenisse aufgeteilt und zwar zu 50 und 30 Bestellungen / Versandlabels.
-
-<a name="merge"></a>
-
-## Dokumente sortiert zusammenführen
-
-Aktiviere diese Option, um alle Dokumente (Labels, Zollerklärungen, Lieferscheine und Rechnungen) sortiert nach Bestellnummer in einem PDF zu erhalten. <a class="video">https://youtu.be/epstS88Gn94</a>
-
-Neben dem Download kann das gesamte Dokument per Mail an die angegebene Adresse verschickt werden.
-
-<a name="more-options"></a>
-
-## Weitere Optionen
-
-Lege fest, ob erstelltes Label direkt heruntergeladen werden soll.
+Damit das Retourenportal deinem CI entspricht, bieter easyReturns verschiedene Möglichkeiten zur Anpassung des Erscheinungsbildes. <a class="video">https://youtu.be/WboL4DNX510?si=hhJc-0iQP9ozFTD-&t=504</a>
 
 <a name="faq"></a>
 
@@ -115,15 +55,9 @@ Lege fest, ob erstelltes Label direkt heruntergeladen werden soll.
 <div class="faq-list">
 <dl class="space-y-8">
 <div>
-<dt><h4>Statt der Name unserer Firma wird einfach unsere Firmenadresse (Straße) angezeigt. Wie können wir das ändern?</h4></dt>
-<dd>In dem Fall werdet ihr voraussichtlich keine Absender Referenz verwenden und zwar die Adressen, die ihr in Shopify hinterlegt habt. dazu müsst ihr einmal in die Shopify Einstellungen unten links im Shopify Admin und dann unter Standorte beziehungsweise in Englisch Locations eure Adressen überprüfen. Dort ist oft als Standort Name die Straße oder Adresse eingetragen. Hier bitte die Standorte entsprechend korrigieren. Dann einen Moment warten und wieder in die App easy DHL unter Einstellungen Versand wechseln. Dort habt ihr dann in einem dropdown eure Standorte zur Auswahl. Sollten die Änderung noch nicht sichtbar sein, dann bitte einmal eine halbe Minute warten und einen browser-reload der App durchführen</dd>
+<dt><h4></h4></dt>
+<dd></dd>
 </div>
-
-<div>
-<dt><h4>Benutzername und Password stimmen aber ich kann mich nicht anmelden, woran liegt das?</h4></dt>
-<dd>Solltest du die 2FA Authentifizierung im DHL Geschäftskunden Portal aktiviert haben, dann wird es höchstwahrscheinlich am gewählten Sicherheitsproblem liegen. Hier entweder die 2FA komplett deaktiviert oder aber das Sicherheitsprofil wie folgt geändert werden, siehe Screenshot - "Absicherung sicherheitsrelevanter Änderungen"
-
-![DHL-2fa-Problem](https://media.247apps.de/storage/faq/dhl-2fa-problem.png)
 
 </dd>
 </dl>
