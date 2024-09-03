@@ -1,6 +1,11 @@
 # Portal
 
 -   [Portalseite](#portal-url)
+-   [Rechtliches](#portal-policies)
+-   [Sprachen](#portal-languages)
+-   [Rücksendegrüde](#portal-reasons)
+-   [Kommentar vom Kunden & Datei-Upload](#portal-comment)
+-   [Kundeninformationen](#portal-infotexte)
 -   [FAQ](#faq)
 
 <a name="portal-url"></a>
@@ -55,8 +60,13 @@ Damit das Retourenportal deinem CI entspricht, bieter easyReturns verschiedene M
 <div class="faq-list">
 <dl class="space-y-8">
 <div>
-<dt><h4></h4></dt>
-<dd></dd>
+<dt><h4>Warum kann die Bestellung nicht über das Retouren Portal geöffnet / gefunden werden?</h4></dt>
+<dd>
+<ol>
+<li>Keine Position innerhalb der Bestellung im Status ausgeführt (fulfilled) existiert.</li>
+<li>Die Bestellung vor mehr als 60 Tagen eingegangen ist. Dazu kann in der App unter Einstellungen -> Automations der Zugriff, auf Bestellungen die älter als 60 Tage sind, erteilt werden.</li>
+</ol>
+</dd>
 </div>
 
 </dd>
