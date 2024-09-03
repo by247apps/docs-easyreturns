@@ -81,8 +81,5 @@ Beim Öffnen oder bei der Bestätigung einer Retourenanfrage entfernt Shopify de
 <dd>
 </dd>
 </div>
-
-</dd>
 </dl>
-</div>
 </div>

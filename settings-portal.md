@@ -1,11 +1,6 @@
 # Portal
 
 -   [Portalseite](#portal-url)
--   [Rechtliches](#portal-policies)
--   [Sprachen](#portal-languages)
--   [Rücksendegrüde](#portal-reasons)
--   [Kommentar vom Kunden & Datei-Upload](#portal-comment)
--   [Kundeninformationen](#portal-infotexte)
 -   [FAQ](#faq)
 
 <a name="portal-url"></a>
@@ -68,8 +63,5 @@ Damit das Retourenportal deinem CI entspricht, bieter easyReturns verschiedene M
 </ol>
 </dd>
 </div>
-
-</dd>
 </dl>
-</div>
 </div>

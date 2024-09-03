@@ -4,6 +4,7 @@
 -   ## Einstellungen
     -   [Portal](/apps/{{app}}/docs/settings-portal)
     -   [Workflow](/apps/{{app}}/docs/settings-workflow)
+    -   [Rückversand](/apps/{{app}}/docs/settings-shipping)
     -   [Benachrichtigungen](/apps/{{app}}/docs/settings-notifications)
     -   [Dokumente](/apps/{{app}}/docs/settings-documents)
 -   ## Gründe bearbeiten
