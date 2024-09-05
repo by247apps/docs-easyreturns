@@ -3,18 +3,12 @@
 -   [Einstellungen](#settings)
 -   [FAQ](#faq)
 
-<a name="provider"></a>
+<a name="settings"></a>
 
 ## Einstellungen
 
-<a name="merchant"></a>
-
-Shopify versendet für jede Retourenanfrage eine Benachrichtigung an die Haupt-Email-Adresse deines Shopify Stores. Über easyReturns kannst du diese Art der Benachrichtigung an eine alternative E-Mail Adresse senden lassen. Diese E-Mail beinhaltet einen Link zur Ansicht der Retoure in easyReturns.
-
-Zusätzlich kann easyReturns weiter Benachrichtigungen versenden und zwar
-
--   Wenn Retoure vom Kunden storniert wurde
--   Wenn die Erstellung des Retoure-Labels fehlschlug
+Lege fest, ob ein Rücksendeschein erstellt werden soll. Für zusätzliche Informationen kannst du einen statischen Anhang wie beispielsweie ein PDF hinzufügen. Diese Dokumente werden zu jeder angenommenen Retoureanfrage bereitgestellt.
+<a class="video">https://youtu.be/0RtrzpP1itA</a>
 
 <a name="faq"></a>
 

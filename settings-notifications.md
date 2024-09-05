@@ -4,11 +4,9 @@
 -   [Kunden Benachrichtigungen](#customer)
 -   [FAQ](#faq)
 
-<a name="provider"></a>
+<a name="merchant"></a>
 
 ## Händler Benachrichtigungen
-
-<a name="merchant"></a>
 
 Shopify versendet für jede Retourenanfrage eine Benachrichtigung an die Haupt-Email-Adresse deines Shopify Stores. Über easyReturns kannst du diese Art der Benachrichtigung an eine alternative E-Mail Adresse senden lassen. Diese E-Mail beinhaltet einen Link zur Ansicht der Retoure in easyReturns.
 
