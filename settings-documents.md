@@ -1,12 +1,11 @@
-# Benachrichtigungen
+# Dokumente
 
--   [Händler Benachrichtigungen](#merchant)
--   [Kunden Benachrichtigungen](#customer)
+-   [Einstellungen](#settings)
 -   [FAQ](#faq)
 
 <a name="provider"></a>
 
-## Händler Benachrichtigungen
+## Einstellungen
 
 <a name="merchant"></a>
 
@@ -16,12 +15,6 @@ Zusätzlich kann easyReturns weiter Benachrichtigungen versenden und zwar
 
 -   Wenn Retoure vom Kunden storniert wurde
 -   Wenn die Erstellung des Retoure-Labels fehlschlug
-
-<a name="customer"></a>
-
-## Kunden Benachrichtigungen
-
-Welcher Versanddienstleister zu einer bestimmten Retourenanfrage angeboten werden soll sowie ob Kosten an den Kunden weitergeben werden, kann über die Regeln festlegt werden. <a class="video">https://youtu.be/V8O8bFzL7U4</a>
 
 <a name="faq"></a>
 

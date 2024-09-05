@@ -1,4 +1,4 @@
-# Portal
+# Workflow
 
 -   [Einschränkungen](#restrictions)
 -   [Retoure-Optionen](#returnOptions)

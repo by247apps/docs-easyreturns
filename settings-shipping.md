@@ -1,7 +1,7 @@
-# Portal
+# Rückversand
 
--   [Rückversand](#provider)
--   [Regeln für den Rückversand](#rules)
+-   [Provider](#provider)
+-   [Regeln](#rules)
 -   [FAQ](#faq)
 
 <a name="provider"></a>
