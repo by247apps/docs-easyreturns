@@ -1,10 +1,10 @@
 # Portal
 
--   [Rückversand](#shipping-provider)
+-   [Rückversand](#provider)
 -   [Regeln für den Rückversand](#rules)
 -   [FAQ](#faq)
 
-<a name="shipping-provider"></a>
+<a name="provider"></a>
 
 ## Rückversand
 
