@@ -19,7 +19,7 @@ Zusätzlich kann easyReturns weiter Benachrichtigungen versenden und zwar
 
 ## Kunden Benachrichtigungen
 
-Die Benachrichtigungen die von Shopify versendet werden können über die Shopify Liquid Templates angepasst werden. Wir verlinken in der App zu den entprechenden templates. Jede von Shopify versendete Nachricht wird im Verlauf einer jeden Bestellung angezeigt. <a class="video">https://youtu.be/V8O8bFzL7U4</a>
+Die Benachrichtigungen die von Shopify versendet werden können über die Shopify Liquid Templates angepasst werden. Wir verlinken in der App zu den entprechenden templates. Jede von Shopify versendete Nachricht wird im Verlauf einer jeden Bestellung angezeigt. <a class="video">https://youtu.be/0kGEDguKz8o</a>
 
 Wir empfehlen das folgende Snippet für die - _Rückgabe genehmigt_ - Benachrichtigung zu verwenden. Über das Icon oben rechts kannst du dieses in die Zwischenablage kopieren und den bisherigen Liquid code mit copy 6 paste ersetzen.
 
