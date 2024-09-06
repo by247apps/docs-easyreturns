@@ -7,11 +7,8 @@
     -   [Rückversand](/apps/{{app}}/docs/settings-shipping)
     -   [Dokumente](/apps/{{app}}/docs/settings-documents)
     -   [Benachrichtigungen](/apps/{{app}}/docs/settings-notifications)
--   ## Gründe bearbeiten
-    -   [Allgemein](/apps/{{app}}/docs/reasons)
--   ## Statistiken
-    -   [Allgemein](/apps/{{app}}/docs/statistics)
 -   ## Workflows
-    -   [Ablauf Retouremanagement](/apps/{{app}}/docs/workflows-retoure-lifecycle)
+    -   [In progress](#)
+    <!-- -   [Ablauf Retouremanagement](/apps/{{app}}/docs/workflows-retoure-lifecycle)
     -   [Retourenanfrage aus easyReturns](/apps/{{app}}/docs/workflows-retore-easyreturns)
-    -   [Retourenanfrage as Shopify Self-Serve](/apps/{{app}}/docs/workflows-self-serve)
+    -   [Retourenanfrage as Shopify Self-Serve](/apps/{{app}}/docs/workflows-self-serve) -->
