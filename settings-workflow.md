@@ -58,19 +58,19 @@ Eine weitere Automatierungsmöglichkeit bezieht sich auf die Erstattung als Reto
 
 ## Automatisierung
 
-Lege den grad der Automatisierung deiner Retouren-Anfragen fest. <a class="video">https://youtu.be/0hHtO1PloEw</a>
+Lege den grad der Automatisierung deiner Retouren-Anfragen fest. <a class="video">https://youtu.be/eFShFaDzTdI?si=Z44PD3SQrMycU_hq&t=145</a>
 
 ### Rücksendeanfragen ohne manuelle Prüfung automatisch genehmigen
 
-Dokumente für die Rücksendung wie Retourenlabel werden dem Kunden ohne vorherige Prüfung zum Download bereitgestellt. Dabei werden die Rücksende-Regeln unter Einstellungen - Rücksendung - Regeln berücksichtigt.
+Dokumente für die Rücksendung wie Retourenlabel werden dem Kunden ohne vorherige Prüfung zum Download bereitgestellt. Dabei werden die Rücksende-Regeln unter Einstellungen - Rücksendung - Regeln berücksichtigt. <a class="video">https://youtu.be/eFShFaDzTdI?si=nmFUgunJj3wUdrjS&t=591</a>
 
 ### Der Status der Rückgabe automatisch auf abgeschlossen setzen sobald dieser in den Status 'Rückgabe in Bearbeitung' überführt wurde
 
-Das passiert nur, wenn easyReturns die Erstattung durchführen soll oder KEIN Umtausch eines Artikels gewünscht ist. Andernfalls muss die Retoure manuell über die Shopify Bestellung erstattet werden. Achte im Falle eines Umtauschs darauf, nicht zu viel zu erstatten. Je nach Einstellung, wird easyReturns eine seperate Bestellung für den gewünschten Austauschartikel anlegen.
+Das passiert nur, wenn easyReturns die Erstattung durchführen soll oder KEIN Umtausch eines Artikels gewünscht ist. Andernfalls muss die Retoure manuell über die Shopify Bestellung erstattet werden. Achte im Falle eines Umtauschs darauf, nicht zu viel zu erstatten. Je nach Einstellung, wird easyReturns eine seperate Bestellung für den gewünschten Austauschartikel anlegen. <a class="video">https://youtu.be/eFShFaDzTdI?si=YLfKHOlXLE3sbUkT&t=884</a>
 
 ### Bestellung archivieren
 
-Beim Öffnen oder bei der Bestätigung einer Retourenanfrage entfernt Shopify den Status "Archiviert" der Bestellung. Durch das Aktivieren dieser Einstellung wird die Bestellung wieder archiviert, sobald sie geschlossen oder storniert wird.
+Beim Öffnen oder bei der Bestätigung einer Retourenanfrage entfernt Shopify den Status "Archiviert" der Bestellung. Durch das Aktivieren dieser Einstellung wird die Bestellung wieder archiviert, sobald sie geschlossen oder storniert wird. <a class="video">https://youtu.be/eFShFaDzTdI?si=QPiB0glUWFNIWuNh&t=1098</a>
 
 ## FAQ
 

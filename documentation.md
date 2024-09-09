@@ -8,7 +8,6 @@
     -   [Dokumente](/apps/{{app}}/docs/settings-documents)
     -   [Benachrichtigungen](/apps/{{app}}/docs/settings-notifications)
 -   ## Workflows
-    -   [In progress](#)
-    <!-- -   [Ablauf Retouremanagement](/apps/{{app}}/docs/workflows-retoure-lifecycle)
-    -   [Retourenanfrage aus easyReturns](/apps/{{app}}/docs/workflows-retore-easyreturns)
-    -   [Retourenanfrage as Shopify Self-Serve](/apps/{{app}}/docs/workflows-self-serve) -->
+    -   [Automatisierung](/apps/{{app}}/docs/workflows-easyreturns)
+        <!-- -   [Erstattungen](/apps/{{app}}/docs/workflows-retoure-lifecycle) -->
+        <!-- -   [Umtausch](/apps/{{app}}/docs/workflows-self-serve) -->
