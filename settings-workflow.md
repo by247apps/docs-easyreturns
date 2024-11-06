@@ -54,6 +54,10 @@ easyReturns bietet für einen Umtausch weitere Optionen zur Einschränkung der a
 
 Eine weitere Automatierungsmöglichkeit bezieht sich auf die Erstattung als Retouren-Option. Die App kann die Rückerstattung automatisch nach Abschluss einer Retoure durchführen. Hier werden dann Gebühren für den Rückversand (wenn Gebühren über das Regelwerk festgelegt wurden) sowie Versandkosten berücksichtigt. Zudem kann die App das Zurückführen der Artikel automatisch durchführen. <a class="video">https://youtu.be/18SOGPzWvh4?si=PKOigem3qOZE9M9y&t=211</a>
 
+### Gutscheine
+
+Die App erstellt keine Gutscheine automatisch. Diese müssten derzeit - zum Beispiel in Shopify - manuell erstellt. Wir arbeiten jedoch an der Automatisierung, so dass Gutscheine automatisch in Shopify erstellt werden, wenn ein Kunde dies als Retouren-Option gewählt hat.
+
 <a name="automations"></a>
 
 ## Automatisierung
