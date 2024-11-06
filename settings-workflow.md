@@ -4,6 +4,7 @@
 -   [Retoure-Optionen](#returnOptions)
 -   [Umtausch](#exchange)
 -   [Erstattungen](#refund)
+-   [Gutscheine](#voucher)
 -   [Automatisierung](#automations)
 -   [FAQ](#faq)
 
@@ -53,6 +54,8 @@ easyReturns bietet für einen Umtausch weitere Optionen zur Einschränkung der a
 ### Erstattungen
 
 Eine weitere Automatierungsmöglichkeit bezieht sich auf die Erstattung als Retouren-Option. Die App kann die Rückerstattung automatisch nach Abschluss einer Retoure durchführen. Hier werden dann Gebühren für den Rückversand (wenn Gebühren über das Regelwerk festgelegt wurden) sowie Versandkosten berücksichtigt. Zudem kann die App das Zurückführen der Artikel automatisch durchführen. <a class="video">https://youtu.be/18SOGPzWvh4?si=PKOigem3qOZE9M9y&t=211</a>
+
+<a name="voucher"></a>
 
 ### Gutscheine
 
