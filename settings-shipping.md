@@ -23,7 +23,7 @@ Welcher Versanddienstleister zu einer bestimmten Retourenanfrage angeboten werde
 
 Shopify bietet Self-Serve Retouren über das Shopify-Kundenportal. Wenn aktiviert, können deine Kunden die Retouren auch über dieses Portal anmelden. Wir empfehlen jedoch, diese Funktion nicht zu aktivieren und stattdessen auf das von easyReturns bereitgestellte Retourenportal zu verweisen. <a href="https://help.shopify.com/de/manual/fulfillment/managing-orders/returns/self-serve-returns">Weitere Informationen zu Self-Server Rückgaben</a>
 
-<a name="rules"></a>
+<a name="self-serve"></a>
 
 ## FAQ
 
