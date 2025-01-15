@@ -2,6 +2,7 @@
 
 -   [Provider](#provider)
 -   [Regeln](#rules)
+-   [Shopify Self-Serve Retouren](#self-serve)
 -   [FAQ](#faq)
 
 <a name="provider"></a>
