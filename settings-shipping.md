@@ -2,6 +2,7 @@
 
 -   [Provider](#provider)
 -   [Regeln](#rules)
+-   [Shopify Self-Serve Retouren](#self-serve)
 -   [FAQ](#faq)
 
 <a name="provider"></a>
@@ -15,6 +16,12 @@ Lege fest, welche Optionen du Kunden für den Rückversand generell anbieten mö
 ## Regeln
 
 Welcher Versanddienstleister zu einer bestimmten Retourenanfrage angeboten werden soll sowie ob Kosten an den Kunden weitergeben werden, kann über die Regeln festlegt werden. <a class="video">https://youtu.be/V8O8bFzL7U4</a>
+
+<a name="self-serve"></a>
+
+## Self-Serve
+
+Shopify bietet Self-Serve Retouren über das Shopify-Kundenportal. Wenn aktiviert, können deine Kunden die Retouren auch über dieses Portal anmelden. Wir empfehlen jedoch, diese Funktion nicht zu aktivieren und stattdessen auf das von easyReturns bereitgestellte Retourenportal zu verweisen. <a href="https://help.shopify.com/de/manual/fulfillment/managing-orders/returns/self-serve-returns">Weitere Informationen zu Self-Server Rückgaben</a>
 
 <a name="faq"></a>
 
