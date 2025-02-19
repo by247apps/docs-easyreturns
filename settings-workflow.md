@@ -8,6 +8,9 @@
 -   [Automatisierung](#automations)
 -   [FAQ](#faq)
 
+> [!NOTE]
+> Beachte: Die meisten dieser Workflow-Eintellungen greifen nur dann, wenn die Retouren über die App angelegt und abgeschlossen werden!
+
 <a name="restrictions"></a>
 
 ## Einschränkungen
@@ -18,48 +21,59 @@ Hier kannst du Retourenanfragen über die App auf bestimmte Bedingungen hin zula
 
 #### Nur eine Retoure pro Bestellung zulassen
 
+Mit diese Option kannst du verhindern, dass deine Kunden mehrere Retouren für eine Bestellung eröffnen.
+
 #### Zugelassene Länder
 
-Ist die Absenderadresse nicht innerhalb dieser Länder, kann keine Retourenanfrage über easyReturns eröffnet werden. Es kann für diese Absender kann eine Infopage angelegt werden, die dann alternativ - mit Instruktionen - angezeigt wird.
+Retourenanfragen können nur aus Ländern angelegt werden die hier eingetragen werden. Es kann für Absender aus nicht zugelassenen Ländern eine Infopage angelegt werden auf diese der Kunde in dem Fall weitergeleitet wird.
+
+> [!NOTE]
+> Du kannst das Feld leer lassen, um alle Länder zu zulassen.
 
 #### Rücksendefrist in Tagen
 
-Zeitliche Einschränkung für die Anlage von Retouren. Wenn du zum Bespiel einen Widerruf von 28 Tagen anbietest, dann kannst du hier 28 Tage eintragen.
+Zeitliche Einschränkung für die Anlage von Retouren. Wenn du zum Bespiel einen Widerruf von 28 Tagen anbietest, dann kannst du hier 28 Tage eintragen. Beachte dabei, dass die App automatisch 3 Tage auf dieses Datum addiert.
 
 > [!NOTE]
 > Die App unterstellt eine Lieferzeit von 3 Tagen. Wenn du also 28 Tage eingetragen hast, werden auch Bestellungen die vor 31 Tagen getätigt wurden für die Retourenanfragen zugelassen.
 
 #### Produkte ausschließen
 
-Produkte können von der Rückgabe über den Tag 'easyreturns_no_returns' ausgeschlossen werden. Füge diesen Tag innerhalb deiner Produktverwaltung in Shopify hinzu damit diese von easyReturns beachtet werden.
+Produkte können von der Rückgabe über den Tag 'easyreturns_no_returns' ausgeschlossen werden. Füge diesen Tag innerhalb deiner Produktverwaltung in Shopify hinzu. easyReturns wird Artikel mit diesem Tag von den Retouren ausschließen.
+
+> [!NOTE]
+> Beachte: Artikel innerhalb von Bestellungen die vor der Anlage des Tag's eingangen sind, werden nicht über dieses Tag verfügen.
 
 #### Collections ausschließen
 
-Die App kann auch Produkte ganzer Collections ausschließen. Mit Eingabe der Collection-Namen werden alle darin enthaltenen Produkte für die Rückgabe ausgeschlossen.
+Die App kann auch Produkte ganzer Collections ausschließen. Mit Eingabe der Collection-Namen werden alle darin enthaltenen Produkte für die Anlage von Retouren ausgeschlossen.
 
 <a name="returnOptions"></a>
 
 ## Retoure-Optionen
 
-Du kannst die Optionen beliedig umbenennen. Möchtest du jedoch die Option Erstattung oder Umtauch anbieten, solltest du das Wording beibehalten und auf die darunter folgenden Eintstellungen beachten. <a class="video">https://youtu.be/18SOGPzWvh4</a>
+Grundlegend bietet die App zwei Retoure-Optionen an, die Rückgabe oder den Umtausch. Die Rückgabe wird dem Kunden immer angeboten, von daher muss mindestens eine Erstattungsmethode aktiv sein. Den Umtausch kannst Du optional aktivieren. <a class="video">https://youtu.be/yHm_Wi5JmTM?si=JJHhvU0hYC3p9cvq</a>
+
+> [!NOTE]
+> Beachte: Die .
+
+<a name="refund"></a>
+
+### Rückgabe
+
+#### Rückerstattung
+
+Eine weitere Automatierungsmöglichkeit bezieht sich auf die Erstattung als Retouren-Option. Die App kann die Rückerstattung automatisch nach Abschluss einer Retoure durchführen. Hier werden dann Gebühren für den Rückversand (wenn Gebühren über das Regelwerk festgelegt wurden) sowie Versandkosten berücksichtigt. Zudem kann die App das Zurückführen der Artikel automatisch durchführen. <a class="video">https://youtu.be/KDQcKcJ56y8?si=KgKzAoAquoyJUrHE</a>
+
+#### Gutschrift
+
+Eine weitere Automatierungsmöglichkeit bezieht sich auf die Erstattung als Retouren-Option. Die App kann die Rückerstattung automatisch nach Abschluss einer Retoure durchführen. Hier werden dann Gebühren für den Rückversand (wenn Gebühren über das Regelwerk festgelegt wurden) sowie Versandkosten berücksichtigt. Zudem kann die App das Zurückführen der Artikel automatisch durchführen. <a class="video">https://youtu.be/GSifdfYcXI0?si=1rmTKmjKoKExufAt</a>
 
 <a name="exchange"></a>
 
 ### Umtausch
 
-easyReturns bietet für einen Umtausch weitere Optionen zur Einschränkung der angebotenen Umtauschartikel oder das automatische Anlegen einer Bestellung mit den gewünschten Umtauschartikel. <a class="video">https://youtu.be/18SOGPzWvh4?si=JWsFCHeIQjcbsndP&t=92</a>
-
-<a name="refund"></a>
-
-### Erstattungen
-
-Eine weitere Automatierungsmöglichkeit bezieht sich auf die Erstattung als Retouren-Option. Die App kann die Rückerstattung automatisch nach Abschluss einer Retoure durchführen. Hier werden dann Gebühren für den Rückversand (wenn Gebühren über das Regelwerk festgelegt wurden) sowie Versandkosten berücksichtigt. Zudem kann die App das Zurückführen der Artikel automatisch durchführen. <a class="video">https://youtu.be/18SOGPzWvh4?si=PKOigem3qOZE9M9y&t=211</a>
-
-<a name="voucher"></a>
-
-### Gutscheine
-
-Die App erstellt keine Gutscheine automatisch. Diese müssten derzeit - zum Beispiel in Shopify - manuell erstellt. Wir arbeiten jedoch an der Automatisierung, so dass Gutscheine automatisch in Shopify erstellt werden, wenn ein Kunde dies als Retouren-Option gewählt hat.
+Alternativ zur Rückgabe mit anschließender Erstattung, kann ein Tausch gegen einen Ersatzartikel angeboten werden. Die App bietet dazu verschiedene Optionen an. <a class="video">https://youtu.be/18SOGPzWvh4?si=JWsFCHeIQjcbsndP&t=92</a>
 
 <a name="automations"></a>
 
