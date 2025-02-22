@@ -63,17 +63,17 @@ Grundlegend bietet die App zwei Retoure-Optionen an, die Rückgabe oder den Umta
 
 #### Rückerstattung
 
-Eine weitere Automatierungsmöglichkeit bezieht sich auf die Erstattung als Retouren-Option. Die App kann die Rückerstattung automatisch nach Abschluss einer Retoure durchführen. Hier werden dann Gebühren für den Rückversand (wenn Gebühren über das Regelwerk festgelegt wurden) sowie Versandkosten berücksichtigt. Zudem kann die App das Zurückführen der Artikel automatisch durchführen. <a class="video">https://youtu.be/KDQcKcJ56y8?si=KgKzAoAquoyJUrHE</a>
+Eine weitere Automatierungsmöglichkeit bezieht sich auf die Erstattung als Retouren-Option. Die App kann die Rückerstattung automatisch nach Abschluss einer Retoure durchführen. Hier werden dann Gebühren für den Rückversand (wenn Gebühren über das Regelwerk festgelegt wurden) sowie Versandkosten berücksichtigt. Zudem kann die App das Zurückführen der Artikel automatisch durchführen. <a class="video">https://youtu.be/KDQcKcJ56y8</a>
 
 #### Gutschrift
 
-Eine weitere Automatierungsmöglichkeit bezieht sich auf die Erstattung als Retouren-Option. Die App kann die Rückerstattung automatisch nach Abschluss einer Retoure durchführen. Hier werden dann Gebühren für den Rückversand (wenn Gebühren über das Regelwerk festgelegt wurden) sowie Versandkosten berücksichtigt. Zudem kann die App das Zurückführen der Artikel automatisch durchführen. <a class="video">https://youtu.be/GSifdfYcXI0?si=1rmTKmjKoKExufAt</a>
+Eine weitere Automatierungsmöglichkeit bezieht sich auf die Erstattung als Retouren-Option. Die App kann die Rückerstattung automatisch nach Abschluss einer Retoure durchführen. Hier werden dann Gebühren für den Rückversand (wenn Gebühren über das Regelwerk festgelegt wurden) sowie Versandkosten berücksichtigt. Zudem kann die App das Zurückführen der Artikel automatisch durchführen. <a class="video">https://youtu.be/GSifdfYcXI0</a>
 
 <a name="exchange"></a>
 
 ### Umtausch
 
-Alternativ zur Rückgabe mit anschließender Erstattung, kann ein Tausch gegen einen Ersatzartikel angeboten werden. Die App bietet dazu verschiedene Optionen an. <a class="video">https://youtu.be/18SOGPzWvh4?si=JWsFCHeIQjcbsndP&t=92</a>
+Alternativ zur Rückgabe mit anschließender Erstattung, kann ein Tausch gegen einen Ersatzartikel angeboten werden. Die App bietet dazu verschiedene Optionen an. <a class="video">https://youtu.be/cWQPscD3lPo</a>
 
 <a name="automations"></a>
 
