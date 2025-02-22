@@ -2,9 +2,8 @@
 
 -   [Einschränkungen](#restrictions)
 -   [Retoure-Optionen](#returnOptions)
--   [Umtausch](#exchange)
--   [Erstattungen](#refund)
--   [Gutscheine](#voucher)
+-   [Rückzahlung & Gutschrift](#refund)
+-   [Umtausch (Artikel im Austausch)](#exchange)
 -   [Automatisierung](#automations)
 -   [FAQ](#faq)
 
@@ -54,18 +53,15 @@ Die App kann auch Produkte ganzer Collections ausschließen. Mit Eingabe der Col
 
 Grundlegend bietet die App zwei Retoure-Optionen an, die Rückgabe oder den Umtausch. Die Rückgabe wird dem Kunden immer angeboten, von daher muss mindestens eine Erstattungsmethode aktiv sein. Den Umtausch kannst Du optional aktivieren. <a class="video">https://youtu.be/yHm_Wi5JmTM?si=JJHhvU0hYC3p9cvq</a>
 
-> [!NOTE]
-> Beachte: Die .
-
 <a name="refund"></a>
 
 ### Rückgabe
 
-#### Rückerstattung
+#### Rückerstattung auf die ursprüngliche Zahlungsmethode
 
 Eine weitere Automatierungsmöglichkeit bezieht sich auf die Erstattung als Retouren-Option. Die App kann die Rückerstattung automatisch nach Abschluss einer Retoure durchführen. Hier werden dann Gebühren für den Rückversand (wenn Gebühren über das Regelwerk festgelegt wurden) sowie Versandkosten berücksichtigt. Zudem kann die App das Zurückführen der Artikel automatisch durchführen. <a class="video">https://youtu.be/KDQcKcJ56y8</a>
 
-#### Gutschrift
+#### Gutschrift als Shop-Guthaben
 
 Eine weitere Automatierungsmöglichkeit bezieht sich auf die Erstattung als Retouren-Option. Die App kann die Rückerstattung automatisch nach Abschluss einer Retoure durchführen. Hier werden dann Gebühren für den Rückversand (wenn Gebühren über das Regelwerk festgelegt wurden) sowie Versandkosten berücksichtigt. Zudem kann die App das Zurückführen der Artikel automatisch durchführen. <a class="video">https://youtu.be/GSifdfYcXI0</a>
 
